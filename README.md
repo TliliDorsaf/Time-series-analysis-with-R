@@ -58,5 +58,5 @@ Box.test(res.diff)
 ```
 Now the last step is to model the series using an ARIMA model.</br>
 To know which coefficient to use, I used the "auto.arima()" command. </br>
-For the second dataset B2, the series was already stationary so all I had to do is verify, pick an ARIMA model and use it.
-Thank you for your time!
+For the second dataset B2, the series was already stationary so all I had to do is verify, pick an ARIMA model and use it.</br>
+Thank you for your time!</br>
