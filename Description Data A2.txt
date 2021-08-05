@@ -1,0 +1,5 @@
+Data : Vehicle Miles Traveled
+
+Period : From 1-1-2000 to 1-1-2020
+
+Frequency: Monthly

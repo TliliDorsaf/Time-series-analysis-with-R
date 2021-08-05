@@ -1,0 +1,5 @@
+Data : New Privately-Owned Housing Units Started: Total Units
+
+Period : From 1-1-1960 to 1-1-2021
+
+Frequency: Monthly
